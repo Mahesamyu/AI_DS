@@ -1,1 +1,5 @@
-# AI_DS
+# Ceate a factorial program
+accept the assignment link shared with you
+automatically repository will be created
+click codespace and execute it ,click commit & push
+stage the code and code gets pushed to the tutor.
